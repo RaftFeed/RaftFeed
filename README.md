@@ -4,7 +4,6 @@
   <img height="200" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Random GiF">
 </p>
 
-# `RaftFeed`
 
 ### 🎮 `CS Student` · 💻 `Developer` · 🤖 `AI Enjoyer` · 🃏 `Game Dev`
 
@@ -22,7 +21,7 @@
 
 <div align="center">
 
-## 🌸 `STATUS`
+## `STATUS`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=F778BA&center=true&vCenter=true&width=600&lines=Currently+studying+Computer+Science+%F0%9F%8E%93;Building+games+%F0%9F%8E%AE;Building+web+apps+%F0%9F%8C%90;Experimenting+with+AI+%F0%9F%A4%96;Probably+debugging+something+%F0%9F%90%9B" />
 
@@ -33,12 +32,6 @@
 <div align="center">
 
 ## ⚡ `MY GITHUB`
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=RaftFeed&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaftFeed&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
 
 <img src="https://streak-stats.demolab.com?user=RaftFeed&theme=tokyonight&hide_border=true" />
 
@@ -55,7 +48,7 @@
 
 <td width="50%" align="center">
 
-### 🐈 CATastrophe
+### Catastrophe
 
 <a href="https://github.com/viPipar/Catastrophe">
 <img src="https://opengraph.githubassets.com/1/viPipar/Catastrophe" width="100%">
@@ -67,7 +60,7 @@
 
 <td width="50%" align="center">
 
-### 👻 This Is Scary Game
+### This Is Scary Game
 
 <a href="https://github.com/viPipar/this-is-scary-game">
 <img src="https://opengraph.githubassets.com/1/viPipar/this-is-scary-game" width="100%">
@@ -83,7 +76,7 @@
 
 <td width="50%" align="center">
 
-### 🗳️ Stellar E-Voting
+### Stellar E-Voting
 
 <a href="https://github.com/RaftFeed/stellar-workshop-e-voting">
 <img src="https://opengraph.githubassets.com/1/RaftFeed/stellar-workshop-e-voting" width="100%">
@@ -95,7 +88,7 @@
 
 <td width="50%" align="center">
 
-### 🎨 GeKaVe
+### GeKaVe
 
 <a href="https://github.com/RaftFeed/GeKaVe">
 <img src="https://opengraph.githubassets.com/1/RaftFeed/GeKaVe" width="100%">
@@ -132,34 +125,24 @@
 
 <div align="center">
 
-## 📊 `CONTRIBUTIONS`
+##  `CONTRIBUTIONS`
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaftFeed&theme=tokyo-night&hide_border=true&area=true&custom_title=RaftFeed%20Contribution%20Graph" />
 
-<br>
-
-<img src="https://raw.githubusercontent.com/RaftFeed/RaftFeed/output/github-contribution-grid-snake.svg" />
-
 </div>
 
 ---
 
 <div align="center">
 
-## 🏆 `ACHIEVEMENTS`
-
-<img src="https://github-profile-trophy.vercel.app/?username=RaftFeed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 `WHERE TO FIND ME`
+## `WHERE TO FIND ME`
 
 <a href="https://github.com/RaftFeed">
 <img src="https://img.shields.io/badge/GitHub-RaftFeed-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://instagram.com/rafidhrsyh">
+<img src="https://img.shields.io/badge/Instagram-%40rafidhrsyh-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://rafid.com">
