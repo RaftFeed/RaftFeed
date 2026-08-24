@@ -1,146 +1,203 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:241654,50:8E2DE2,100:ff8fb1&height=210&section=header&text=Yo!%20RaftFeed%20di%20sini%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mahasiswa%20Ilkom%20IPB%20%E2%80%A2%20Full-time%20Debugger%20%E2%80%A2%20Part-time%20Protagonist&descAlignY=58&descSize=17" width="100%"/>
+<!-- HERO -->
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=C9A6FF&center=true&vCenter=true&width=680&lines=System%3A+Kamu+terpilih+jadi+The+Chosen+One...;Rafid%3A+lah+kirain+mau+isekai%2C+ternyata+disuruh+push+code;%5BLevel+Up%5D+Struktur+Data+%2B1;Quest+aktif%3A+nyelesain+laporan+sebelum+deadline+%F0%9F%94%A5" alt="typing banner" />
-
-</div>
+<a href="https://www.pinterest.com/search/pins/?q=anime%20programmer%20coding%20night">
+<img src="https://i.pinimg.com/originals/7b/1f/0f/7b1f0fc1e8f7b8b9d4f6e7e8f2f2a8d7.gif" width="100%" />
+</a>
 
 <br>
 
-<table>
-<tr>
-<td width="42%">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=RAFTFEED;Computer+Science+%40+IPB;Software+%2B+Game+%2B+AI;currently+debugging+something..." />
 
-<img src="assets/mascot.svg" width="100%" alt="RaftFeed chibi mascot" />
+<br>
 
-</td>
-<td width="58%" valign="top">
+<img src="https://img.shields.io/badge/Computer%20Science-IPB-7AA2F7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Game%20Developer-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-Developer-FF69B4?style=for-the-badge" />
 
-### 🧾 Character Sheet
+</div>
 
-```yaml
-Name:      Rafid Harsyah Syauqirahman
-Alias:     RaftFeed
-Class:     Mahasiswa Ilmu Komputer @ IPB (IPeBe™)
-Base:      Bogor, Indonesia
-Homepage:  rafid.com (lmao)
-Bio Quote: "gimana cara dapet achievement deh"
-Perk:      GitHub Pro ✨ (sultan dikit gapapa)
-Status:    ⚔️ grinding EXP, occasionally rage-quitting
-           compiler errors at 2 AM
+---
+
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/4d/91/52/4d9152d2a2d6c7c7d0a1a0e7d6f0c8c8.gif" width="420" />
+
+### `STATUS`
+
+```text
+╭──────────────────────────────────────╮
+│                                      │
+│   🎓  Computer Science @ IPB         │
+│   💻  Building software              │
+│   🎮  Making games                   │
+│   🤖  Experimenting with AI          │
+│   🐛  Fighting bugs                  │
+│                                      │
+╰──────────────────────────────────────╯
 ```
 
-> 📜 **Lore drop:** salah satu repo-nya dikasih nama selengkap absensi dosen
-> (`DeMorgan_M0403241083_Rafid-Harsyah-Syauqirahman`). Niat banget emang
-> ngerjain tugas ospek sampe serapi itu.
-
-</td>
-</tr>
-</table>
-
----
-
-### 🎮 Skill Tree
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,typescript,rust,react,vite,css,html,git,vscode&theme=dark" />
-<br><br>
-<img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
-<img src="https://img.shields.io/badge/Stellar%20%2F%20Soroban-7D00FF?style=for-the-badge&logo=stellar&logoColor=white" />
 </div>
 
 ---
 
-### ⚔️ Current Quest
+<div align="center">
 
-Lagi ngegrind **final project mata kuliah Struktur Data**: bikin sistem
-**Document Version Management**, terus ngebenchmark tiga struktur data C++
-STL (`unordered_map` vs `vector` vs `list`) buat lihat siapa yang paling
-kenceng nyimpen histori versi dokumen. Laporan formatnya rubrik ketat,
-jadi separuh quest ini isinya battle lawan format bab, bukan lawan bug. 😤
+## ⚔️ TECH ARSENAL
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,typescript,javascript,php,r,gdscript&perline=8" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,postgres,supabase&perline=6" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=godot,git,github,vscode,figma,linux&perline=6" />
+
+</div>
 
 ---
 
-### 🗺️ Guild Bank (Repos)
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/0c/8a/7e/0c8a7e0b2a1f8f6f7f3c6f2e2f4c5d5d.gif" width="500" />
+
+# 🎮 PROJECTS
+
+</div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-**🌐 [DeMorgan Portfolio](https://github.com/RaftFeed/DeMorgan_M0403241083_Rafid-Harsyah-Syauqirahman)**
-Tugas ospek Pekan Ilkomerz — bikin website portofolio pake React + Vite,
-udah di-deploy juga ke Vercel biar makin sah jadi anak IT.
-`React` `Vite` `CSS`
-[🔗 Live demo](https://de-morgan-m0403241083-rafid-harsyah.vercel.app)
+<td width="50%" align="center">
 
-</td>
-<td width="50%" valign="top">
+<a href="https://github.com/viPipar/Catastrophe">
 
-**🎮 [GeKaVe](https://github.com/RaftFeed/GeKaVe)**
-Proyek tugas GKV semester 4, dibangun pake Godot Engine. Udah tembus
-50 commits — lebih rajin commit daripada rajin ke kelas pagi.
-`GDScript` `Godot`
+<img src="https://opengraph.githubassets.com/1/viPipar/Catastrophe" width="100%" />
+
+### 🐈 CATastrophe
+
+</a>
+
+`Godot` · `GDScript` · `Game Dev`
 
 </td>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/viPipar/this-is-scary-game">
+
+<img src="https://opengraph.githubassets.com/1/viPipar/this-is-scary-game" width="100%" />
+
+### 👻 This Is Scary Game
+
+</a>
+
+`Godot` · `GDScript`
+
+</td>
+
 </tr>
+
 <tr>
-<td width="50%" valign="top">
 
-**🗳️ [Stellar E-Voting DApp](https://github.com/RaftFeed/stellar-workshop-e-voting)**
-Smart contract voting kampus di atas Stellar (Soroban SDK) — daftar
-kandidat, vote sekali per wallet, hasil real-time on-chain. Biar pemilu
-himpunan gabisa dicurangin lagi.
-`Rust` `Soroban` `TypeScript`
+<td width="50%" align="center">
 
-</td>
-<td width="50%" valign="top">
+<a href="https://github.com/RaftFeed/GeKaVe">
 
-**👻 [This Is Scary Game](https://github.com/RaftFeed/this-is-scary-game)**
-Kolaborasi bareng guild-mate **[@viPipar](https://github.com/viPipar)**,
-horror game bikinan Godot. Party quest bareng temen > solo grinding.
-`GDScript`
+<img src="https://opengraph.githubassets.com/1/RaftFeed/GeKaVe" width="100%" />
+
+### 🎨 GeKaVe
+
+</a>
+
+`GDScript` · `Godot`
 
 </td>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/RaftFeed/stellar-workshop-e-voting">
+
+<img src="https://opengraph.githubassets.com/1/RaftFeed/stellar-workshop-e-voting" width="100%" />
+
+### 🗳️ Stellar E-Voting
+
+</a>
+
+`TypeScript` · `Web`
+
+</td>
+
 </tr>
 </table>
 
-<sub>🎖️ Honorable mention party quests bareng viPipar:
-<a href="https://github.com/viPipar/Catastrophe">Catastrophe</a> (platformer) &
-<a href="https://github.com/viPipar/this-is-scary-game">this-is-scary-game</a> (versi originalnya).</sub>
-
 ---
 
-### 📊 Stat Window
-
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RaftFeed&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaftFeed&layout=compact&theme=radical&hide_border=true" />
-</div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=RaftFeed&theme=radical&hide_border=true" />
-</div>
+## 📡 GITHUB SIGNAL
 
-### 🏆 Achievements (masih dicari cara dapetnya)
+<img src="https://github-readme-stats.vercel.app/api?username=RaftFeed&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RaftFeed&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaftFeed&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
-<div align="center">
-<sub>plot twist: kartu di atas ke-update otomatis tiap ada commit baru — jadi achievement-nya nge-farm sendiri, gak perlu nanya lagi 🎉</sub>
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=RaftFeed&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
 <div align="center">
 
-📫 Cari gue di **[github.com/RaftFeed](https://github.com/RaftFeed)**
+<img src="https://i.pinimg.com/originals/2a/6b/42/2a6b42b5b1e5b2f9e6c2c8e7d6e5f4a3.gif" width="380" />
 
-<img src="https://img.shields.io/github/followers/RaftFeed?label=Followers&style=social" />
-<img src="https://komarev.com/ghpvc/?username=RaftFeed&color=b083f0&style=flat&label=Visitor+yang+nyasar" />
+## 📈 CONTRIBUTIONS
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8fb1,100:241654&height=120&section=footer" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaftFeed&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/RaftFeed/RaftFeed/output/github-contribution-grid-snake.svg" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 ACHIEVEMENTS
+
+<img src="https://github-profile-trophy.vercel.app/?username=RaftFeed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/6e/36/0d/6e360d7b8f7c6c5d4e3f2a1b0c9d8e7f.gif" width="300" />
+
+### `DEBUGGING...`
+
+```text
+████████████████████████████████ 100%
+
+STATUS: probably works
+ERRORS: probably intentional
+SLEEP: not found
+```
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=RaftFeed&style=for-the-badge&color=7AA2F7" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 </div>
