@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/b8/d1/66/b8d1668808a95416618a075e3f808570.gif" width="100%" />
+<p align="center">
+  <img height="200" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Random GiF">
+</p>
 
 # `RaftFeed`
 
