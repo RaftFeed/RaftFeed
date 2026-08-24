@@ -1,179 +1,146 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/b8/d1/66/b8d1668808a95416618a075e3f808570.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:241654,50:8E2DE2,100:ff8fb1&height=210&section=header&text=Yo!%20RaftFeed%20di%20sini%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mahasiswa%20Ilkom%20IPB%20%E2%80%A2%20Full-time%20Debugger%20%E2%80%A2%20Part-time%20Protagonist&descAlignY=58&descSize=17" width="100%"/>
 
-# `RaftFeed`
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=C9A6FF&center=true&vCenter=true&width=680&lines=System%3A+Kamu+terpilih+jadi+The+Chosen+One...;Rafid%3A+lah+kirain+mau+isekai%2C+ternyata+disuruh+push+code;%5BLevel+Up%5D+Struktur+Data+%2B1;Quest+aktif%3A+nyelesain+laporan+sebelum+deadline+%F0%9F%94%A5" alt="typing banner" />
 
-### 🎮 `CS Student` · 💻 `Developer` · 🤖 `AI Enjoyer` · 🃏 `Game Dev`
-
-<img src="https://komarev.com/ghpvc/?username=RaftFeed&style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/github/followers/RaftFeed?style=for-the-badge&label=Followers"/>
-<img src="https://img.shields.io/github/stars/RaftFeed?style=for-the-badge&label=Stars"/>
+</div>
 
 <br>
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,typescript,javascript,php,r,gdscript,html,css,react,nodejs,postgres,supabase,godot,git,github,vscode&perline=9" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌸 `STATUS`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=F778BA&center=true&vCenter=true&width=600&lines=Currently+studying+Computer+Science+%F0%9F%8E%93;Building+games+%F0%9F%8E%AE;Building+web+apps+%F0%9F%8C%90;Experimenting+with+AI+%F0%9F%A4%96;Probably+debugging+something+%F0%9F%90%9B" />
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ `MY GITHUB`
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=RaftFeed&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaftFeed&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=RaftFeed&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🎮 `PROJECTS`
 
 <table>
 <tr>
+<td width="42%">
 
-<td width="50%" align="center">
-
-### 🐈 CATastrophe
-
-<a href="https://github.com/viPipar/Catastrophe">
-<img src="https://opengraph.githubassets.com/1/viPipar/Catastrophe" width="100%">
-</a>
-
-`GDScript` · `Godot` · `Platformer`
+<img src="assets/mascot.svg" width="100%" alt="RaftFeed chibi mascot" />
 
 </td>
+<td width="58%" valign="top">
 
-<td width="50%" align="center">
+### 🧾 Character Sheet
 
-### 👻 This Is Scary Game
+```yaml
+Name:      Rafid Harsyah Syauqirahman
+Alias:     RaftFeed
+Class:     Mahasiswa Ilmu Komputer @ IPB (IPeBe™)
+Base:      Bogor, Indonesia
+Homepage:  rafid.com (lmao)
+Bio Quote: "gimana cara dapet achievement deh"
+Perk:      GitHub Pro ✨ (sultan dikit gapapa)
+Status:    ⚔️ grinding EXP, occasionally rage-quitting
+           compiler errors at 2 AM
+```
 
-<a href="https://github.com/viPipar/this-is-scary-game">
-<img src="https://opengraph.githubassets.com/1/viPipar/this-is-scary-game" width="100%">
-</a>
-
-`GDScript` · `Godot` · `Game Dev`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-### 🗳️ Stellar E-Voting
-
-<a href="https://github.com/RaftFeed/stellar-workshop-e-voting">
-<img src="https://opengraph.githubassets.com/1/RaftFeed/stellar-workshop-e-voting" width="100%">
-</a>
-
-`TypeScript` · `Web`
+> 📜 **Lore drop:** salah satu repo-nya dikasih nama selengkap absensi dosen
+> (`DeMorgan_M0403241083_Rafid-Harsyah-Syauqirahman`). Niat banget emang
+> ngerjain tugas ospek sampe serapi itu.
 
 </td>
-
-<td width="50%" align="center">
-
-### 🎨 GeKaVe
-
-<a href="https://github.com/RaftFeed/GeKaVe">
-<img src="https://opengraph.githubassets.com/1/RaftFeed/GeKaVe" width="100%">
-</a>
-
-`GDScript` · `Godot`
-
-</td>
-
 </tr>
 </table>
 
+---
+
+### 🎮 Skill Tree
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,typescript,rust,react,vite,css,html,git,vscode&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+<img src="https://img.shields.io/badge/Stellar%20%2F%20Soroban-7D00FF?style=for-the-badge&logo=stellar&logoColor=white" />
+</div>
+
+---
+
+### ⚔️ Current Quest
+
+Lagi ngegrind **final project mata kuliah Struktur Data**: bikin sistem
+**Document Version Management**, terus ngebenchmark tiga struktur data C++
+STL (`unordered_map` vs `vector` vs `list`) buat lihat siapa yang paling
+kenceng nyimpen histori versi dokumen. Laporan formatnya rubrik ketat,
+jadi separuh quest ini isinya battle lawan format bab, bukan lawan bug. 😤
+
+---
+
+### 🗺️ Guild Bank (Repos)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌐 [DeMorgan Portfolio](https://github.com/RaftFeed/DeMorgan_M0403241083_Rafid-Harsyah-Syauqirahman)**
+Tugas ospek Pekan Ilkomerz — bikin website portofolio pake React + Vite,
+udah di-deploy juga ke Vercel biar makin sah jadi anak IT.
+`React` `Vite` `CSS`
+[🔗 Live demo](https://de-morgan-m0403241083-rafid-harsyah.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+**🎮 [GeKaVe](https://github.com/RaftFeed/GeKaVe)**
+Proyek tugas GKV semester 4, dibangun pake Godot Engine. Udah tembus
+50 commits — lebih rajin commit daripada rajin ke kelas pagi.
+`GDScript` `Godot`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🗳️ [Stellar E-Voting DApp](https://github.com/RaftFeed/stellar-workshop-e-voting)**
+Smart contract voting kampus di atas Stellar (Soroban SDK) — daftar
+kandidat, vote sekali per wallet, hasil real-time on-chain. Biar pemilu
+himpunan gabisa dicurangin lagi.
+`Rust` `Soroban` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+**👻 [This Is Scary Game](https://github.com/RaftFeed/this-is-scary-game)**
+Kolaborasi bareng guild-mate **[@viPipar](https://github.com/viPipar)**,
+horror game bikinan Godot. Party quest bareng temen > solo grinding.
+`GDScript`
+
+</td>
+</tr>
+</table>
+
+<sub>🎖️ Honorable mention party quests bareng viPipar:
+<a href="https://github.com/viPipar/Catastrophe">Catastrophe</a> (platformer) &
+<a href="https://github.com/viPipar/this-is-scary-game">this-is-scary-game</a> (versi originalnya).</sub>
+
+---
+
+### 📊 Stat Window
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RaftFeed&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaftFeed&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=RaftFeed&theme=radical&hide_border=true" />
+</div>
+
+### 🏆 Achievements (masih dicari cara dapetnya)
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=RaftFeed&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
+</div>
+
+<div align="center">
+<sub>plot twist: kartu di atas ke-update otomatis tiap ada commit baru — jadi achievement-nya nge-farm sendiri, gak perlu nanya lagi 🎉</sub>
 </div>
 
 ---
 
 <div align="center">
 
-## 🧩 `TECH STACK`
+📫 Cari gue di **[github.com/RaftFeed](https://github.com/RaftFeed)**
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,typescript,javascript,php,r" />
+<img src="https://img.shields.io/github/followers/RaftFeed?label=Followers&style=social" />
+<img src="https://komarev.com/ghpvc/?username=RaftFeed&color=b083f0&style=flat&label=Visitor+yang+nyasar" />
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,postgres,supabase" />
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=godot,git,github,vscode,figma,linux" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 `CONTRIBUTIONS`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaftFeed&theme=tokyo-night&hide_border=true&area=true&custom_title=RaftFeed%20Contribution%20Graph" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/RaftFeed/RaftFeed/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 `ACHIEVEMENTS`
-
-<img src="https://github-profile-trophy.vercel.app/?username=RaftFeed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 `WHERE TO FIND ME`
-
-<a href="https://github.com/RaftFeed">
-<img src="https://img.shields.io/badge/GitHub-RaftFeed-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://rafid.com">
-<img src="https://img.shields.io/badge/Website-rafid.com-ff69b4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180">
-
-### `thanks for visiting ✨`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8fb1,100:241654&height=120&section=footer" width="100%"/>
 
 </div>
