@@ -1,8 +1,7 @@
 <div align="center">
 
-<font size="1">
-
-<pre>
+<pre style="font-size: 8px; line-height: 8px; overflow-x: auto;">
+...
                                                              .....
                                                         ................ ...
                                                   ........   ....          ..........
@@ -79,9 +78,8 @@
                                     :*###*:
                                      :*#*:
                                       :*:
+...
 </pre>
-
-</font>
 
 </div>
 
