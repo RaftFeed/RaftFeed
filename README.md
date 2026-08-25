@@ -10,6 +10,7 @@
 
 </div>
 
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=RaftFeed&style=for-the-badge&color=blueviolet"/>
 <img src="https://img.shields.io/github/followers/RaftFeed?style=for-the-badge&label=Followers"/>
