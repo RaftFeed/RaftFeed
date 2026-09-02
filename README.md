@@ -151,12 +151,10 @@
 
 <div align="center">
 
-## 🏆 `ACHIEVEMENTS`
-
-<img src="https://img.shields.io/badge/IEEE%20SB%20IPB-Executive%20Division-7761B1?style=for-the-badge&logo=ieee&logoColor=white" />
 <img src="https://img.shields.io/badge/Stellar-Web3%20Developer%20Bootcamp-000000?style=for-the-badge&logo=stellar&logoColor=white" />
 <img src="https://img.shields.io/badge/Game%20Dev-Godot%20Creator-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
-<img src="https://img.shields.io/badge/SMT%20Program-2026-0052CC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SMT%20Program-2026-0052CC?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/IEEE%20SB%20IPB-President-7761B1?style=for-the-badge&logo=ieee&logoColor=white" />
 
 </div>
 
