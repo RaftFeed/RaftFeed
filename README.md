@@ -130,7 +130,7 @@
 
 ##  `CONTRIBUTIONS`
 
-<img src="https://github-readme-stats.vercel.app/api?username=RaftFeed&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://ghchart.rshah.org/7761B1/RaftFeed" alt="RaftFeed's Github chart" width="100%" />
 
 </div>
 
@@ -140,7 +140,9 @@
 
 ## 🏆 `ACHIEVEMENTS`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaftFeed&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/IEEE%20SB%20IPB-Executive%20Division-7761B1?style=for-the-badge&logo=ieee&logoColor=white" />
+<img src="https://img.shields.io/badge/Stellar-Web3%20Developer%20Bootcamp-000000?style=for-the-badge&logo=stellar&logoColor=white" />
+<img src="https://img.shields.io/badge/Game%20Dev-Godot%20Creator-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
 
 </div>
 
