@@ -130,7 +130,7 @@
 
 ##  `CONTRIBUTIONS`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaftFeed&theme=tokyo-night&hide_border=true&area=true&custom_title=RaftFeed%20Contribution%20Graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=RaftFeed&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -140,9 +140,7 @@
 
 ## 🏆 `ACHIEVEMENTS`
 
-<a href="https://github.com/RaftFeed">
-  <img src="https://github-profile-trophy.vercel.app/?username=RaftFeed&theme=tokyonight&no-frame=true&column=4&margin-w=15" alt="RaftFeed Trophies" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaftFeed&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
