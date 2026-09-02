@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <p align="center">
@@ -133,6 +131,18 @@
 ##  `CONTRIBUTIONS`
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaftFeed&theme=tokyo-night&hide_border=true&area=true&custom_title=RaftFeed%20Contribution%20Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 `ACHIEVEMENTS`
+
+<a href="https://github.com/RaftFeed">
+  <img src="https://github-profile-trophy.vercel.app/?username=RaftFeed&theme=tokyonight&no-frame=true&column=4&margin-w=15" alt="RaftFeed Trophies" />
+</a>
 
 </div>
 
