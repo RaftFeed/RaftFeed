@@ -141,7 +141,6 @@
 ## 🏆 `ACHIEVEMENTS`
 
 <img src="https://img.shields.io/badge/Achievement-Pair%20Extraordinaire-7761B1?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Achievement-Pull%20Shark-007ACC?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Achievement-Quickdraw-2EA44F?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Achievement-YOLO-F778BA?style=for-the-badge&logo=github&logoColor=white" />
 
